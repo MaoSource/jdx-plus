@@ -1,0 +1,13 @@
+{
+  "title": "JDX",
+  "notice": "这是一条测试公告~",
+  "noticeModel": "TOP",
+  "qls": [
+    {
+      "displayName": "青龙 1号",
+      "url": "http://xxx:xx/",
+      "clientId": "xxxxx",
+      "clientSecret": "xxxxxx"
+    }
+  ]
+}

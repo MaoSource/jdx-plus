@@ -1,0 +1,11 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /api
+
+spring:
+  application:
+    version: @project.version@
+
+logging:
+  config: classpath:logback-jdx.xml
