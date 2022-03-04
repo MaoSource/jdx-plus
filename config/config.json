@@ -1,0 +1,19 @@
+{
+    "title": "东哥牛逼",
+    "password": "1134496928",
+    "checkCookieCron": "0 0 12 * * ?",
+    "qls": [
+        {
+            "clientId": "5Csa0Hi0pW-U",
+            "max": 30,
+            "displayName": "东哥牛逼",
+            "used": 0,
+            "url": "http://127.0.0.1:5600/",
+            "clientSecret": "LFdgFTNatrt9j_xp_uc_WdG4",
+            "disabled": 0
+        }
+    ],
+    "noticeModel": "TOP",
+    "notice": "狗东日志群：749914472~",
+    "username": "Source"
+}
